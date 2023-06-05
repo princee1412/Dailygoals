@@ -1,1 +1,1 @@
-A javascript mini project titled as Dailyoals.
+A javascript mini project titled as DailyGoals.
